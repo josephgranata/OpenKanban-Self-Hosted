@@ -11,7 +11,7 @@ Feature list:
 
 Original webui code author: https://github.com/scazzy/kanban-board
 
-## LIMITATIONS TO THIS CODE
+## LIMITATIONS TO THIS CODE - Comments by Joseph Granata
 Unfortunately this software will not run using this README instructions.
 Go has changed, and it now does not allow many things this code did, for example:
 
